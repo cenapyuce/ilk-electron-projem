@@ -9,7 +9,7 @@
 # İndirmek icin Adımları takip edin
 
 ```
-$ git clone https://github.com/cenapyuce/ilk-electron-projem
+$ git clone https://github.com/cenapyuce/ilk-electron-projem.git
 ```
 
 ## İndirdikden sonra consolu acın ve
